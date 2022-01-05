@@ -6,4 +6,4 @@
 - Developer for **Bilibili Product Department**
 - An ordinary developer, an **IOT engineer**
 
-Follow me on [Bilibili](https://space.bilibili.com/26226485)
+- Follow me on [Bilibili](https://space.bilibili.com/26226485)
