@@ -1,7 +1,6 @@
 #  About AlanStar
 
 ```
-markdown
 The world is worth saving by code 🌎
 ```
 
