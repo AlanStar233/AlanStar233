@@ -1,6 +1,6 @@
 #  About AlanStar
 
-**Hello World** 👋
+**Hello** 👋
 
 ```
 The world is worth saving by code 🌎
