@@ -10,7 +10,7 @@ The world is worth saving by code 🌎
 
 
 - A moderator of [Bilibili User FeedBack Forum](https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html), now responsible for the **Product & Community** Parts.
-- Developer & Product Manager for **Bilibili Product Department**
+- Developer for **Bilibili Product Department**
 - An ordinary developer, an **IOT engineer**
 
 - Follow me on [Bilibili](https://space.bilibili.com/26226485)
