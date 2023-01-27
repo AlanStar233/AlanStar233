@@ -26,5 +26,5 @@ The world is worth saving by code 🌎
 - Programme Languages which regularly use are **Python C Java**.
 - Good at **Web Development**, also have a certain understanding of various fields.
 
-- Follow me on [Bilibili](https://space.bilibili.com/26226485)
+- You can Follow me on [Bilibili](https://space.bilibili.com/26226485)~
 
