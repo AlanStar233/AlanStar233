@@ -17,10 +17,10 @@ The world is worth saving by code 🌎
 - Follow me on [Bilibili](https://space.bilibili.com/26226485)
 
 
-**Chinese Ver**
+**中文版本**
 
-- 现在是 [Bilibili 社区中心 (曾: 用户反馈论坛)](https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html) 的版主，现在在 ** 产品 & 社区版 ** 任职。
-- 目前为 ** Bilibili 产品部门 ** 开发软件(打杂orz)。
-- 一个普通的开发者, 一个 ** IOT 工程师 ** 。
+- 现在是 [Bilibili 社区中心 (曾: 用户反馈论坛)](https://www.bilibili.com/blackboard/activity-5zJxM3spoS.html) 的版主，现在在 **产品 & 社区版** 任职。
+- 目前为 **Bilibili 产品部门** 开发软件(打杂orz)。
+- 一个普通的开发者, 一个 **IOT 工程师** 。
 
 - 你可以在 [Bilibili](https://space.bilibili.com/26226485) 上关注我~
